@@ -1,0 +1,27 @@
+{
+    "require":{
+        "php": ">=7.0.0",
+        "pavapp/framework": "dev-master",
+        "pavapp/validator": "dev-master",
+        "pavapp/template": "dev-master",
+        "pavapp/cms": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/alvazar/pavapp.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/alvazar/validator.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/alvazar/template.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/alvazar/pavappcms.git"
+        }
+    ]
+}

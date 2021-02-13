@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "pavapp/cms": {
+            "dev-master": { @composer.json }
+        }
+    }
+}
