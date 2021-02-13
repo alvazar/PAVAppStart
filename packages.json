@@ -1,7 +1,15 @@
 {
     "packages": {
         "pavapp/cms": {
-            "dev-master": { @composer.json }
+            "dev-master": {            
+                "name": "pavapp/cms",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/alvazar/pavappcms.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
     }
 }
